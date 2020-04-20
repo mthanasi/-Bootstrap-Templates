@@ -34,6 +34,7 @@
 ## Photography Portfolio
 
 > A Simple Static Portfolio Site built with HTML, CSS.
+
 ![](Src_Imgs/portfolio.gif)
 
 ---
