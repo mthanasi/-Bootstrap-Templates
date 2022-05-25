@@ -1,42 +1,35 @@
-# Bootstrap-Templates
+# Bootstrap-HTML-Templates
 
-## Candy Museum
+### Candy Museum - Bootstrap V4 responsive webpage
 
-> A Bootstrap V4 Responsive Webpage.
-
-![](Src_Imgs/candy.gif)
+![](imgs/candy.gif)
 
 ---
 
-## Pattern
+### Pattern - Bootstrap V4 homepage
 
-> A Small Bootstrap V4 Project.
-
-![](Src_Imgs/pattern.png)
+![](imgs/pattern.png)
 
 ---
 
-## Image Gallery
+### Image Gallery - simple image gallery built with Bootstrap v3
 
->A Simple Image Gallery built with Bootstrap v3.
-
-![](Src_Imgs/gallery.png)
+![](imgs/gallery.png)
 
 ---
 
-## Landing Page
-> A Simple Landing Page built with Bootstrap V3.
+### Landing Page - built with Bootstrap V3
 
-![](Src_Imgs/cat.png)
+![](imgs/cat.png)
+
+---
+
+### Photography Portfolio - simple static portfolio site built with HTML, CSS
+
+![](imgs/portfolio.gif)
 
 ---
 
-## Photography Portfolio
+### License
 
-> A Simple Static Portfolio Site built with HTML, CSS.
-
-![](Src_Imgs/portfolio.gif)
-
----
-## License
 [MIT](https://choosealicense.com/licenses/mit/)
