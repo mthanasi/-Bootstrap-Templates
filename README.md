@@ -6,6 +6,12 @@
 
 ---
 
+### Photography Portfolio - simple static portfolio site built with HTML, CSS
+
+![](imgs/portfolio.gif)
+
+---
+
 ### Pattern - Bootstrap V4 homepage
 
 ![](imgs/pattern.png)
@@ -21,12 +27,6 @@
 ### Landing Page - built with Bootstrap V3
 
 ![](imgs/cat.png)
-
----
-
-### Photography Portfolio - simple static portfolio site built with HTML, CSS
-
-![](imgs/portfolio.gif)
 
 ---
 
